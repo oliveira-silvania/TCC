@@ -13,7 +13,7 @@ Repositório oficial do **Trabalho de Conclusão de Curso** apresentado ao curso
 
 ---
 
-## 🎯 Objetivos do TCC
+## 🎯 Objetivos 
 
 ### Objetivo geral
 Analisar a participação de mulheres em programas de mestrado e doutorado nas áreas de STEM no Brasil, nos anos de 2021, 2022 e 2023, por meio de redes complexas aplicadas aos dados da Plataforma Sucupira.
@@ -51,7 +51,7 @@ Inclui:
 
 ---
 
-## ⚙️ Tecnologias utilizadas no TCC
+## ⚙️ Tecnologias utilizadas
 
 - **Python** → integração de dados e rotinas de classificação de gênero.  
 - **SQL Server** → armazenamento, limpeza e processamento dos dados.  
@@ -61,7 +61,7 @@ Inclui:
 
 ---
 
-## 📊 Redes analisadas no TCC
+## 📊 Redes analisadas 
 
 O estudo modela três tipos de redes:
 
