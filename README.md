@@ -106,17 +106,6 @@ O **painel de BI interativo** permite a exploração visual e estatística da pr
 
 ---
 
-## 🔁 Reprodutibilidade
-
-Este repositório garante reprodutibilidade total do estudo, reunindo:
-
-- scripts SQL,  
-- códigos Python,  
-- CSVs de nós e arestas,  
-- arquivos .gephi para visualização.  
-
----
-
 ## 📝 Documento final
 
 O TCC completo está disponível em:
