@@ -1,0 +1,51 @@
+Esta pasta contém os **dados brutos (raw)** utilizados no projeto de TCC:  
+> ****ANÁLISE DE REDES COMPLEXAS DAS PUBLICAÇÕES CIENTÍFICAS DE MULHERES EM PROGRAMAS DE PÓS-GRADUAÇÃO STRICTO SENSU NAS ÁREAS STEM (2021–2023), COM BASE NA PLATAFORMA SUCUPIRA****
+
+Os arquivos são **metadados oficiais da CAPES (2021–2023)**, extraídos do **Banco de Metadados da Plataforma Sucupira**.  
+
+🔗 Catálogo oficial: [Metadados CAPES](https://metadados.capes.gov.br/index.php)  
+
+---
+
+## 📑 Arquivos disponíveis
+
+### 1. Produção Intelectual
+- **Descrição:** Metadados das produções intelectuais dos PPGs (bibliográficas, técnicas e artísticas).  
+- **Fonte:** [Dados abertos CAPES – Produção Intelectual (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-producao-intelectual-de-pos-graduacao-stricto-sensu-no-brasil)  
+- **Variáveis principais:** programa, instituição, título da produção, tipo/subtipo, área de concentração, linha de pesquisa, projeto, ISSN (quando aplicável), vínculo com TCC.  
+- **Registros (2021–2023):** ~3,38 milhões  
+  - **Bibliográfica:** 1,89M  
+  - **Técnica:** 1,47M  
+  - **Artístico-cultural:** 23k  
+
+---
+
+### 2. Autores da Produção Intelectual
+- **Descrição:** Identificação e vínculos dos autores das produções intelectuais.  
+- **Fonte:** [Dados abertos CAPES – Autores da Produção Intelectual (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-autor-da-producao-intelectual-de-programas-de-pos-graduacao-stricto-sensu-no-brasil)  
+- **Variáveis principais:** nome do autor, tipo de vínculo (docente, discente, egresso, pós-doc, externo), categoria docente, nível de titulação, área de conhecimento, país, tempo de egresso.  
+- **Registros (2021–2023):** ~31,9 milhões  
+
+---
+
+### 3. Financiadores de Projetos
+- **Descrição:** Metadados sobre financiadores de projetos vinculados aos PPGs.  
+- **Fonte:** [Dados abertos CAPES – Financiadores de Projetos (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-financiadores-de-projetos-dos-programas-de-pos-graduacao-stricto-sensu-no-brasil)  
+- **Variáveis principais:** nome do financiador, natureza do financiamento, programa de fomento, país de origem, indicador de financiador estrangeiro, vínculo com programa/instituição.  
+- **Registros (2021–2023):**  
+  - **2021:** 167.959 registros → 109.808 projetos distintos, 4.424 PPGs, 431 IES  
+  - **2022:** 170.027 registros → 110.939 projetos distintos, 4.362 PPGs, 432 IES  
+  - **2023:** 170.624 registros → 110.743 projetos distintos, 4.407 PPGs, 434 IES  
+
+---
+
+### 4. Programas de Pós-Graduação
+- **Descrição:** Informações sobre os Programas de Pós-Graduação stricto sensu no Brasil.  
+- **Fonte:** [Dados abertos CAPES – Programas de Pós-Graduação (2021–2024)](https://dadosabertos.capes.gov.br/dataset/2021-a-2024-programas-da-pos-graduacao-stricto-sensu-no-brasil)  
+- **Variáveis principais:** área de conhecimento, grande área, subárea, especialidade, instituição, município, UF, região, conceito CAPES, modalidade (acadêmico/profissional), situação do programa, início do curso.  
+- **Registros (2021–2023):**  
+  - **2021:** 4.709 PPGs em 473 IES  
+  - **2022:** 4.594 PPGs em 476 IES  
+  - **2023:** 4.659 PPGs em 477 IES  
+
+---
